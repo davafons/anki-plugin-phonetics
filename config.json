@@ -1,0 +1,4 @@
+{
+    "srcFields": ["TargetFurigana"],
+    "dstFields": ["Phonetics"]
+}

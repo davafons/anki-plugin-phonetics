@@ -1,0 +1,1 @@
+from .phonetics import regeneratePhonetics
